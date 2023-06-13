@@ -1,0 +1,1 @@
+This project will entail a web application blog that will feature two articles exploring two avenues of the Cyber Security landscape that intrigue me as I continue the beginning of my exposure to the world of Cyber Security.
